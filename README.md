@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 :smiley_cat: Hello! My name is Adriana Swantz and you have found my GitHub :woman_technologist:
+
+
 :brain: I'm currently learning how to use OpenGL to model mathematical/ scientific data :ringed_planet: :cloud: :fog: :ocean: :world_map: :1234: :satellite:
 
 
