@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 :smiley_cat: Hello! My name is Adriana Swantz and you have found my GitHub :woman_technologist:
+:brain: I'm currently learning how to use OpenGL to model mathematical/ scientific data :ringed_planet: :cloud: :fog: :ocean: :world_map: :1234: :satellite:
 
+
+:handshake: I'm looking to collaborate on anything so hit me up!
 
 <!--
 **addy-cat/addy-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
