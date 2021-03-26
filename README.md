@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+:smiley_cat: Hello! My name is Adriana Swantz and you have found my GitHub :woman_technologist:
+
+
 <!--
 **addy-cat/addy-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
