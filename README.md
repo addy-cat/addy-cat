@@ -8,7 +8,10 @@ I'm currently learning how to use OpenGL to model mathematical/ scientific data 
 
 I'm looking to collaborate on anything so hit me up! :handshake: 
 
+
 How to reach me: aswantz@pdx.edu :email: https://linkedin.com/in/adriana-swantz-1a3b85191/ :eyes:
+
+Fun fact: :love_you_gesture:
 
 <!--
 **addy-cat/addy-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
