@@ -9,6 +9,8 @@ I spend my days working, going to school, and working on my projects :snail:
 
 I'm currently learning how to use OpenGL to model mathematical/ scientific data :ringed_planet: :cloud: :fog: :ocean: :world_map: :1234: :satellite: :chart_with_downwards_trend:
 
+I'm currently working on my Differential Equations grapher you can see on my GitHub :octocat:
+
 
 I'm looking to collaborate on anything so hit me up! :handshake: 
 
