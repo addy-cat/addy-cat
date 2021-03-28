@@ -15,7 +15,7 @@ I'm currently working on my Differential Equations grapher you can see on my Git
 I'm looking to collaborate on anything so hit me up! :handshake: 
 
 
-How to reach me: aswantz@pdx.edu :email: :love_letter: https://linkedin.com/in/adriana-swantz-1a3b85191/ :eyes:
+How to reach me: aswantz@pdx.edu :email: https://linkedin.com/in/adriana-swantz-1a3b85191/ :eyes:
 
 <!--
 **addy-cat/addy-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
