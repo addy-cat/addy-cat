@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! My name is Adriana Swantz and you have found my GitHub :woman_technologist:
+Hello! You have found my GitHub :woman_technologist:
 
 I am majoring in Computer Science and minoring in math at PSU :blue_book: :pencil2:
 
